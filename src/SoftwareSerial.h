@@ -510,3 +510,4 @@ extern template bool circular_queue<uint32_t, EspSoftwareSerial::UARTBase*>::pus
 
 #endif // __SoftwareSerial_h
 
+#include "SoftwareSerial.ipp"
