@@ -1,0 +1,3 @@
+[submodule "src/circular_queue"]
+	path = src/circular_queue
+	url = https://github.com/ModularMonitor/lib-circular_queue.git
